@@ -1,4 +1,4 @@
-require 'card.rb'
+require_relative 'card.rb'
 
 describe Card do
 

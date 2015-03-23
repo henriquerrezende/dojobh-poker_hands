@@ -1,5 +1,5 @@
-require 'hand.rb'
-require 'card.rb'
+require_relative 'hand.rb'
+require_relative 'card.rb'
 
 describe Hand do
 
